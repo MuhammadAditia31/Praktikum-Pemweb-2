@@ -68,19 +68,6 @@ if (isset($_POST['type'])) {
             </tr>
           <?php endforeach; ?>
         </tbody>
-        <tfoot>
-          <tr>
-            <th>No</th>
-            <th>Pasien</th>
-            <th>Paramedik</th>
-            <th>Tanggal</th>
-            <th>Berat (kg)</th>
-            <th>Tinggi (cm)</th>
-            <th>Tensi</th>
-            <th>Keterangan</th>
-            <th>Aksi</th>
-          </tr>
-        </tfoot>
       </table>
     </div>
   </div>

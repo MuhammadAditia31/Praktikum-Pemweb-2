@@ -63,20 +63,6 @@ if (isset($_POST['type'])) {
             </tr>
           <?php endforeach; ?>
         </tbody>
-        <tfoot>
-          <tr>
-            <th>No</th>
-            <th>Kode</th>
-            <th>Nama</th>
-            <th>Tempat Lahir</th>
-            <th>Tanggal Lahir</th>
-            <th>Gender</th>
-            <th>Email</th>
-            <th>Alamat</th>
-            <th>Kelurahan</th>
-            <th>Aksi</th>
-          </tr>
-        </tfoot>
       </table>
     </div>
   </div>

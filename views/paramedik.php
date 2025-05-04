@@ -12,7 +12,7 @@ if (isset($_POST['type'])) {
   }
 }
 ?>
-
+                           
 <div class="container">
   <div class="card">
     <div class="card-body">
@@ -63,20 +63,6 @@ if (isset($_POST['type'])) {
             </tr>
           <?php endforeach; ?>
         </tbody>
-        <tfoot>
-          <tr>
-            <th>No</th>
-            <th>Nama</th>
-            <th>Gender</th>
-            <th>Tempat Lahir</th>
-            <th>Tanggal Lahir</th>
-            <th>Kategori</th>
-            <th>Telepon</th>
-            <th>Alamat</th>
-            <th>Unit Kerja</th>
-            <th>Aksi</th>
-          </tr>
-        </tfoot>
       </table>
     </div>
   </div>
